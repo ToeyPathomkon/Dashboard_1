@@ -107,7 +107,7 @@ file_put_contents("./module/log/visitorlog.txt", $log, FILE_APPEND);
     <h1>🚧 Dev Projects</h1>
     <div class="container">
         <div class="card">
-            <a href="http://192.168.1.63/warranty" target="_blank">
+            <a href="#" target="_blank">
                 <span class='emoji'>📄</span> warranty: FixBug and Edit Year Format
             </a>
             <ul style="margin: 10px 0 0 30px; padding: 0; font-size: 14px; color: #555;">
@@ -117,7 +117,7 @@ file_put_contents("./module/log/visitorlog.txt", $log, FILE_APPEND);
         </div>
 
         <div class="card">
-            <a href="http://192.168.1.63/Qlis" target="_blank">
+            <a href="#" target="_blank">
                 <span class='emoji'>🧪</span> QLIS: Test API new Endpoint
             </a>
             <ul style="margin: 10px 0 0 30px; padding: 0; font-size: 14px; color: #555;">
